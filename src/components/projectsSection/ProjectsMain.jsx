@@ -22,10 +22,10 @@ const projects = [
 },
 {
     name: "Portfolio Website",
-    year: "November 2024",
+    year: "October 2024",
     align: "right",
     image: "images/project-1.png",
-    link: "https://govind-folio.netlify.app/",
+    link: "https://myportfoliowebs-shivanshu.netlify.app/",
 },
 ];
 
