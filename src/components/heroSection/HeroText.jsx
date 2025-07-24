@@ -27,7 +27,7 @@ function HeroText() {
         initial="hidden"
         whileInView="show"
         viewport={{ once: true, amount: 0 }}
-        href="https://drive.google.com/file/d/1AOahAUBXECKZUYMK1JFyxq7i04pPJs_x/view?usp=sharing">
+        href="https://drive.google.com/file/d/1TPiZqM-AOFZDk_9oZo2dqITRxatc1Zy2/view?usp=sharing">
             <button className='text-center bg-green-900 w-45 h-10 rounded-full font-semibold hover:cursor-pointer hover:scale-120 transition-all duration-500'>
             Download Resume</button>
         </motion.a>
